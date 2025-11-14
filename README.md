@@ -1,5 +1,4 @@
 # World-Economics-Analysis
-Here’s a clean, professional **README.md** you can use for your GitHub repository for the World Economic & Demography Analysis dashboard:
 
 ---
 
