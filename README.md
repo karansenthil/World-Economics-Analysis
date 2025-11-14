@@ -128,10 +128,4 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
-
----
-
-If you'd like, I can also format it differently, add badges, or customize it for **Power BI**, **Tableau**, or **Excel**.
